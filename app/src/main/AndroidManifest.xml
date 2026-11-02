@@ -8,8 +8,8 @@
     </queries>
     <application
         android:label="BGH Tv"
-        android:icon="@drawable/ic_launcher"
-        android:banner="@drawable/banner"
+        android:icon="@drawable/logo_bgh"
+        android:banner="@drawable/banner_bgh"
         android:theme="@style/Theme.BGH">
         <activity
             android:name=".MainActivity"
